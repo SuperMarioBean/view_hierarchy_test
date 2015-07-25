@@ -14,6 +14,7 @@
 		63CA25761B60A950004C7D2F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63CA25751B60A950004C7D2F /* Images.xcassets */; };
 		63CA25791B60A950004C7D2F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 63CA25771B60A950004C7D2F /* LaunchScreen.xib */; };
 		63CA25851B60A950004C7D2F /* Container_Transition_StoryboardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 63CA25841B60A950004C7D2F /* Container_Transition_StoryboardTests.m */; };
+		63CA258F1B60C878004C7D2F /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63CA258E1B60C878004C7D2F /* Storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		63CA257E1B60A950004C7D2F /* Container Transition StoryboardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Container Transition StoryboardTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63CA25831B60A950004C7D2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		63CA25841B60A950004C7D2F /* Container_Transition_StoryboardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Container_Transition_StoryboardTests.m; sourceTree = "<group>"; };
+		63CA258E1B60C878004C7D2F /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				63CA25751B60A950004C7D2F /* Images.xcassets */,
 				63CA25771B60A950004C7D2F /* LaunchScreen.xib */,
 				63CA25681B60A950004C7D2F /* Supporting Files */,
+				63CA258E1B60C878004C7D2F /* Storyboard.storyboard */,
 			);
 			path = "Container Transition Storyboard";
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				63CA25741B60A950004C7D2F /* Main.storyboard in Resources */,
+				63CA258F1B60C878004C7D2F /* Storyboard.storyboard in Resources */,
 				63CA25791B60A950004C7D2F /* LaunchScreen.xib in Resources */,
 				63CA25761B60A950004C7D2F /* Images.xcassets in Resources */,
 			);
